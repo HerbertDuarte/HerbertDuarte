@@ -18,4 +18,5 @@
 <a href="https://www.linkedin.com/in/herbert-duarte-8534b71a2/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
+  https://github.com/HerbertDuarte/HerbertDuarte/blob/output/github-contribution-grid-snake.svg
 </div>
