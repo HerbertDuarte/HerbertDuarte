@@ -1,7 +1,7 @@
 <h1 color="#2981FF" style="font-family:Arial,sans-serif;">Olá, meu nome é Herbert!</h1>
 <div>
   <a href="https://github.com/HerbertDuarte?tab=repositories">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HerbertDuarte&theme=merko" alt="git-status" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HerbertDuarte&theme=gruvbox" alt="git-status" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertDuarte" alt="dsd" />
 </div>
 <div>
