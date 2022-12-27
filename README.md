@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/HerbertDuarte?tab=repositories">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HerbertDuarte&theme=gruvbox" alt="git-stats" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertDuarte&theme=gruvbox" alt="git-stats" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertDuarte&theme=transparent" alt="git-stats" />
 </div>
 <div>
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
