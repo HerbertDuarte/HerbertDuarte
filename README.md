@@ -1,4 +1,4 @@
-<h1 color="2981FF" style="font-family:Arial,sans-serif;">Olá, meu nome é <span color="ffc61c">Herbert!</span></h1>
+<h1 color="2981FF" style="font-family:Arial,sans-serif;">Olá, meu nome é <span color="#ffc61c">Herbert!</span></h1>
 <div>
   <a href="https://github.com/HerbertDuarte?tab=repositories">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=HerbertDuarte&show_icons=true&theme=transparent" alt="git-stats" />
