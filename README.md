@@ -1,5 +1,7 @@
 <h1 style="font-family:Arial,sans-serif;">Olá, meu nome é Herbert!</h1>
 
+<h1>Skills</h1>
+
 <div>
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
