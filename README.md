@@ -10,6 +10,8 @@
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
 </div>
+
+<h1>Redes Sociais</h1>
 <div>
   <a href="https://www.instagram.com/herbert.14_/?next=%2F">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
