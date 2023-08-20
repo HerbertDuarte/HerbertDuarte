@@ -10,7 +10,7 @@
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />          
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img height="45px" src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" />
-  <img height="45px" style="borderRadius:50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img height="45px" style="border-radius:50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="45px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />  
   <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
