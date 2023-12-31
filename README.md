@@ -1,6 +1,6 @@
 <h1 style="font-family:Arial,sans-serif;">Olá, meu nome é Herbert!</h1>
 <p>Seja bem vindo ao meu perfil aqui no GitHub!</p>
-<p>Eu me chamo Herbert Duarte, tenho 20 anos e resído atualmente no município de Vitória da Conquista - BA. Sou um entusiásta da tecnologia, apaixonado por exatas e estudante de programação. Estou matriculado no curso de Bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).</p>
+<p>Eu me chamo Herbert Duarte, tenho 21 anos e resído atualmente no município de Vitória da Conquista - BA. Sou desenvolvedor web fullstack, um entusiásta da tecnologia, apaixonado por exatas e estudante de programação. Estou matriculado no curso de Bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA).</p>
 <h2>Skills</h2>
 
 <div>
