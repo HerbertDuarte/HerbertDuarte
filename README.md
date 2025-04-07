@@ -1,6 +1,6 @@
 <h1 style="font-family:Arial,sans-serif;">Olá, meu nome é Herbert!</h1>
-<p>Seja bem vindo ao meu perfil aqui no GitHub!</p>
-<p>Eu me chamo Herbert Duarte, sou desenvolvedor web fullstack e arquiteto de software, um entusiásta da tecnologia, apaixonado por exatas e estudante de programação.</p>
+<h4>Seja bem vindo ao meu perfil aqui no GitHub!</h4>
+<p>Desenvolvedor web fullstack e arquiteto de software.</p>
 
 <h2>Skills</h2>
 
