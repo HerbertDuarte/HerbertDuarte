@@ -1,6 +1,4 @@
-<h1 style="font-family:Arial,sans-serif;">Olá, meu nome é Herbert!</h1>
-<h3>Seja bem vindo ao meu perfil aqui no GitHub!</h3>
-<small>Desenvolvedor web fullstack & arquiteto de software.</small>
+<h1 style="font-family:Arial,sans-serif;">Seja bem vindo ao meu perfil aqui no GitHub!</h1>
 
 <h2>Skills</h2>
 
